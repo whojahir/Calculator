@@ -10,7 +10,7 @@ The calculator performs standard arithmetic operations such as addition, subtrac
 
 • Responsive calculator UI.
 <br>
-• Perform basic operations: + , − , × , ÷
+• Perform basic operations: + , − , × , ÷.
 <br>
 • Supports multi-digit numbers.
 <br>
