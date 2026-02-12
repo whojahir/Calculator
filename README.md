@@ -8,22 +8,79 @@ The calculator performs standard arithmetic operations such as addition, subtrac
 
 # 🚀 Features
 
-• Responsive calculator UI.
+• ➕ Addition
 <br>
-• Perform basic operations: + , − , × , ÷.
+• ➖ Subtraction
 <br>
-• Supports multi-digit numbers.
+• ✖ Multiplication
 <br>
-• Clear (AC) and Delete (DEL) functionality.
+• ➗ Division
 <br>
-• Real-time screen updates.
+• 🔢 Multi-digit number support
 <br>
-• Clean and simple logic (no eval() used).
+• 🧹 AC (All Clear) button
+<br>
+• ⌫ DEL (Delete last digit)
+<br>
+• 🔘 Decimal (.) support
+<br>
+• 📱 Responsive design
 
 # 🛠️ Technologies Used
 
-• HTML – structure of the calculator.
+• HTML – structure of the calculator
 <br>
-• CSS – styling and layout.
+• CSS – styling and layout
 <br>
-• JavaScript – calculator logic and button interactions.
+• JavaScript – calculator logic and button interactions
+
+# 🧠 Concepts Practiced
+
+• Selecting elements using querySelector & querySelectorAll.
+<br>
+• Handling button clicks with addEventListener.
+<br>
+• Managing application state using variables.
+<br>
+• Implementing arithmetic logic manually.
+<br>
+• Updating UI dynamically using DOM manipulation.
+
+# 📂 Project Structure
+
+Calculator/
+<br>
+│
+<br>
+├── index.html     # Structure
+<br>
+├── style.css      # Styling
+<br>
+└── script.js      # Calculator Logic
+
+# ▶️ How to Run
+
+1. Clone the repository:
+   git clone https://github.com/Unstoppablejahir/Calculator.git
+2. Open the project folder.
+3. Double-click index.html to open in your browser.
+
+# 🚀 Future Improvements
+
+• Keyboard input support
+<br>
+• Continuous operations (e.g., 5 + 2 + 3)
+<br>
+• History display
+<br>
+• Improved UI animations
+<br>
+• Dark/Light mode toggle
+
+# Preview
+
+
+
+# 📄 License
+
+This project is open-source and available under the MIT License.
