@@ -50,13 +50,11 @@ The calculator performs standard arithmetic operations such as addition, subtrac
 
 Calculator/
 <br>
-│
+│── index.html   # Structure
 <br>
-├── index.html     # Structure
+│── style.css    # Styling
 <br>
-├── style.css      # Styling
-<br>
-└── script.js      # Calculator Logic
+│── script.js    # Calculator Logic
 
 # ▶️ How to Run
 
