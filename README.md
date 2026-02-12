@@ -77,6 +77,8 @@ Calculator/
 
 # Preview
 
+Below is a preview of the calculator interface:
+
 <img width="353" height="532" alt="Screenshot 2026-02-12 at 9 20 38 AM" src="https://github.com/user-attachments/assets/031c5e86-f8c1-4e98-877b-041d678b555f" />
 
 # 📄 License
