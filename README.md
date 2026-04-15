@@ -85,3 +85,4 @@ Below is a preview of the calculator interface:
 # 📄 License
 
 This project is open-source and available under the MIT License.
+<br>
