@@ -22,8 +22,6 @@ The calculator performs standard arithmetic operations such as addition, subtrac
 <br>
 • ⌫ DEL (Delete last digit)
 <br>
-• 🔘 Decimal (.) support
-<br>
 • 📱 Responsive design
 
 # 🛠️ Technologies Used
